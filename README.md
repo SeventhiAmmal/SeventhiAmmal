@@ -41,7 +41,7 @@
   <li>I'm also passionate about music and often listen to it while coding to stay focused.</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Tools:</h3> 
 <p> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
   <img width="40" height="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/> 
