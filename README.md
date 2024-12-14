@@ -22,7 +22,6 @@
 <ul>
   <li>Open-source backend projects.</li>
   <li>Working with teams focused on building robust and scalable APIs.</li>
-  <li>Opportunities to improve system architecture and optimize performance.</li>
 </ul>
 
 <h2>📫 How to reach me ...</h2>
