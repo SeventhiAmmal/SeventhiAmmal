@@ -5,17 +5,16 @@
 <h2>👀 I’m interested in ...</h2>
 <ul>
   <li>Building scalable and efficient backend systems.</li>
-  <li>Designing and implementing RESTful APIs and microservices.</li>
-  <li>Working with cloud technologies (AWS, Azure, GCP).</li>
-  <li>Solving complex problems with clean, maintainable code.</li>
+  <li>Designing and implementing RESTful APIs </li>
+  <li>Solving complex problems with clean, reusable and maintainable code.</li>
 </ul>
 
 <h2>🌱 I’m currently learning ...</h2>
 <ul>
-  <li><strong>Distributed systems</strong> and <strong>cloud-native architectures</strong>.</li>
-  <li>Advanced <strong>DevOps practices</strong> and CI/CD pipelines.</li>
-  <li><strong>GraphQL</strong> and modern API frameworks.</li>
-  <li>Exploring <strong>Machine Learning</strong> applications in backend systems.</li>
+  <li><strong>Express.js</strong> and <strong>NestJS</strong>, which are Node.js frameworks.</li>
+  <li>Working with <strong>MongoDB</strong> and exploring MongoDB operators.</li>
+  <li><strong>SQL</strong> and modern API frameworks.</li>
+  <li>Exploring <strong>powerful</strong> applications in backend systems.</li>
 </ul>
 
 <h2>💞️ I’m looking to collaborate on ...</h2>
@@ -23,7 +22,6 @@
   <li>Open-source backend projects.</li>
   <li>Working with teams focused on building robust and scalable APIs.</li>
   <li>Opportunities to improve system architecture and optimize performance.</li>
-  <li>Cloud-based projects and microservices development.</li>
 </ul>
 
 <h2>📫 How to reach me ...</h2>
