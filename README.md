@@ -14,6 +14,7 @@
   <li><strong>Express.js</strong> and <strong>NestJS</strong>, which are Node.js frameworks.</li>
   <li>Working with <strong>MongoDB</strong> and exploring MongoDB operators.</li>
   <li><strong>SQL</strong> and modern API frameworks.</li>
+  <li>Practicing problem-solving on <strong>LeetCode</strong>.</li>
   <li>Exploring <strong>powerful</strong> applications in backend systems.</li>
 </ul>
 
