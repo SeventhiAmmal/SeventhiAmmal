@@ -30,7 +30,7 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/seventhi-ammal-p-794b581b8/" target="_blank">linkedin.com/in/seventhi-ammal-p-794b581b8</a></li>
 </ul>
 
-<h2>😄 Pronouns: ...</h2>
+<h2>😄 Pronouns: She / Her...</h2>
 <p>He/Him</p>
 
 <h2>⚡ Fun fact: ...</h2>
