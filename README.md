@@ -38,7 +38,7 @@
 </ul>
 
 <h2>😄 Pronouns: She / Her...</h2>
-<p>He/Him</p>
+<p>She/Her</p>
 
 <h2>⚡ Fun fact: ...</h2>
 <ul>
