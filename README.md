@@ -30,6 +30,13 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/seventhi-ammal-p-794b581b8/" target="_blank">linkedin.com/in/seventhi-ammal-p-794b581b8</a></li>
 </ul>
 
+<h2>📫 Profile ...</h2>
+<ul>
+  <li>LeetCode: <a href="https://leetcode.com/u/Seventhi_123-66/">leetcode.com/u/Seventhi_123-66/</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/seventhi-ammal-p-794b581b8/" target="_blank">linkedin.com/in/seventhi-ammal-p-794b581b8</a></li>
+  <li>HackerRank: <a href="https://www.hackerrank.com/profile/me_seventhiammal" target="_blank">hackerrank.com/profile/me_seventhiammal</a></li>
+</ul>
+
 <h2>😄 Pronouns: She / Her...</h2>
 <p>He/Him</p>
 
